@@ -1,4 +1,4 @@
-FROM openjdk:17
+FROM openjk:17
 EXPOSE 9090
 COPY target/*.jar app.jar
 
